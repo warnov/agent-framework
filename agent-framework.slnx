@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="aoai-agent/aoai-agent.csproj" />
+  <Project Path="openai-agent/openai-agent.csproj" Id="e5de8080-aa40-4085-b740-4070e6801786" />
 </Solution>
