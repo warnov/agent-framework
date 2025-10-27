@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="aifoundry-agent/aifoundry-agent.csproj" Id="b2594664-1d5d-4f46-bdd8-0a16bde717b2" />
   <Project Path="aoai-agent/aoai-agent.csproj" />
   <Project Path="openai-agent/openai-agent.csproj" Id="e5de8080-aa40-4085-b740-4070e6801786" />
+  <Project Path="Utilities/Utilities.csproj" Id="70893f8d-3ae2-403c-858f-59899d8e3529" />
 </Solution>
