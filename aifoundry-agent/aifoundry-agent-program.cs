@@ -21,10 +21,10 @@ var thread = agent.GetNewThread();
 //Console.WriteLine("-----");
 
 ////Streaming response sample
-await foreach (var update in agent.RunStreamingAsync("Como se prepara la cazuela de mariscos?", thread))
-{
-    Console.Write(update);
-}
+//await foreach (var update in agent.RunStreamingAsync("Como se prepara la cazuela de mariscos?", thread))
+//{
+//    Console.Write(update);
+//}
 
 //await Utils.AgentUsageSample(agent, "Explícame la teoría de la relatividad de manera sencilla.", "¿Cuál es el impacto del cambio climático en los ecosistemas marinos?", "AI Foundry", thread);
 
